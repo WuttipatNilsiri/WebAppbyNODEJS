@@ -1,31 +1,15 @@
-# Article Knowledgebase Application
-
-This is a knowledgebase app used in the "Node.js & Express From Scratch" Youtube series.
-
-## Technologies
-* Node.js
-* Express
-* Express Messages, Session, Connect Flash & Validation
-* MongoDB & Mongoose
-* Pug Templating
-* Passport.js Authentication
-* BCrypt Hashing
-
-### Version
-2.0.0
-
-## Usage
+# Assignment 08: Article Website with Nodejs, Mongoose (MongoDB), Pug web Engine
 
 
-### Installation
+#### Please config your data base in ./config/database.js before run app
 
-Install the dependencies
+#### These are the screenshots
 
-```sh
-$ npm install
-```
-Run app
+![GUI](image/1.png)
+![GUI](image/2.png)
+![GUI](image/3.png)
+![GUI](image/4.png)
 
-```sh
-$ npm start
-```
+##Install&Run
+Run installLib (take a min)
+Run run(app.js)

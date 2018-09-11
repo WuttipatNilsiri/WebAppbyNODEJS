@@ -42,7 +42,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Express Session Middleware
 app.use(session({
-  secret: 'keyboard cat',
+  secret: 'rinneprprpr',
   resave: true,
   saveUninitialized: true
 }));

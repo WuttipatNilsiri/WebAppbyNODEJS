@@ -9,6 +9,7 @@ module.exports = function(passport){
     // Match Username
     let query = {username:username};
     User.findOne(query, function(err, user){
+      //ERROR throwwww
       if(err) throw err;
       if(!user){
         return done(null, false, {message: 'No user found'});
